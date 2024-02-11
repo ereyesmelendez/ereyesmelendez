@@ -1,9 +1,10 @@
 <h1>Hi, I'm Edrick! <br/></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>SIEM set up with Azure Sentinal</b>
+  - Here I set up a SIEM using Azure. The security was set up to be as vulnerable as possible. Normally, this would not be a recommended set up for security but it works for the purpose of education. 
 <!--
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
