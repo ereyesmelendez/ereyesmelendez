@@ -1,5 +1,9 @@
 <h1>Hi, I'm Edrick! <br/></h1>
 
+<h2> About Me!</h2>
+<b>- 🌱 I’m currently learning Python on <a href="boot.dev">boot.dev</a> </b>
+  -- 💬 Ask me about how I got into programming
+
 <h2>👨‍💻 Programming Projects:</h2>
 
 - <b>BookBot</b>
@@ -7,6 +11,7 @@
 - <b>🔭 I’m currently working on a Static Site Generator</b>
 
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
