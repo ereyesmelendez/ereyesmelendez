@@ -2,7 +2,7 @@
 
 <h2> About Me!</h2>
 <b>- 🌱 I’m currently learning Python on <a href="https://www.boot.dev/">boot.dev</a> </b>
-  -- 💬 Ask me about how I got into programming
+<b>- 💬 Ask me about how I got into programming</b>
 
 <h2>👨‍💻 Programming Projects:</h2>
 
